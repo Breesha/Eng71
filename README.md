@@ -4,11 +4,11 @@
 
 [C# OOP](#c#oop)
 
-[C# Data]()
+[C# Data](#c#data)
 
-[C# SDET 1]()
+[C# SDET 1](#sdet)
 
-[C#SDET 2]()
+[C# SDET 2](#sdet2)
 
 
 
@@ -43,3 +43,41 @@
 5. SOLID Principles
 6. Comparing Objects
 
+
+
+## C# Data
+
+1. SQL with C#
+2. Introduction to Entity Framework & EF Database First Model
+3. Introduction to LINQ & Query Syntax
+4. Lambda Expressions & Method Syntax
+5. Loading & Joining Tables
+6. Testing CRUD methods
+7. EF - Code First Database
+8. Three Tier Application
+9. XML & JSON
+10. Encoding & Streaming
+11. Serialisation
+
+
+
+## SDET
+
+1. Advanced Unit Testing with NUnit
+2. TDD
+3. Refactoring and Code Smells
+4. Pair Programming
+5. Introduction to REST and APIs
+6. Using RestSharp for Automated API Tests
+7. Asynchronous Programming
+8. Moqs
+
+
+
+## SDET2
+
+1. Introduction to Web Testing
+2. Selenium
+3. Web  Elements
+4. SpecFlow
+5. Performance Testing
