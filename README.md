@@ -1,10 +1,10 @@
 # Engineering 71
 
-[C# Core](#c# core)
+[C# Core](#c#-core)
 
-[C# OOP](#c# oop)
+[C# OOP](#c#-oop)
 
-[C# Data](#c# data)
+[C# Data](#c#-data)
 
 [C# SDET 1](#sdet)
 
